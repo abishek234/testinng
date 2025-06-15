@@ -7,7 +7,7 @@ import math
 import time
 
 class Calculator:
-    def __init__(self) 
+    def __init__(self): 
         self.history = []
         self.debug_mode = True
     
