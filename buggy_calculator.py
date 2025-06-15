@@ -7,7 +7,7 @@ import math
 import time
 
 class Calculator:
-    def __init__(self)  # SYNTAX ERROR: Missing colon
+    def __init__(self) 
         self.history = []
         self.debug_mode = True
     
